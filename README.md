@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...challenges
 - 🌱 I’m currently learning ...code 
 - 💞️ I’m looking to collaborate on ...web-dev
-- 📫 How to reach me ...by mail // twitter //facebook
+- 📫 How to reach me ...by mail || twitter || facebook
 
 <!---
 jeanCodeUnMax/jeanCodeUnMax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
